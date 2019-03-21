@@ -13,6 +13,8 @@ namespace Lambdas
         {
             Message message = a => a;       //The simple lambda expression
             Console.WriteLine(message("test"));
+            string test2 = message("test2");
+            Console.WriteLine(test2);
 
             Summ summ = (a, b) => a + b;
             Console.WriteLine(summ(5, 5));
