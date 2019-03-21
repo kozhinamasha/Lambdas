@@ -10,3 +10,4 @@ C:\Users\mariia.kozhyna\Documents\Lambdas\Lambdas\bin\Debug\Lambdas.pdb
 C:\Users\mariia.kozhyna\Documents\Lambdas\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
 C:\Users\mariia.kozhyna\Documents\Lambdas\Lambdas\obj\Debug\Lambdas.exe
 C:\Users\mariia.kozhyna\Documents\Lambdas\Lambdas\obj\Debug\Lambdas.pdb
+C:\Users\mariia.kozhyna\Documents\Lambdas\Lambdas\obj\Debug\Lambdas.csprojAssemblyReference.cache
