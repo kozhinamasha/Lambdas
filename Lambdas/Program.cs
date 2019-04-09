@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 
 namespace Lambdas
 {
@@ -44,8 +45,10 @@ namespace Lambdas
             }
 
             hello();
-            Console.ReadKey();
 
+            PrintTheName();
+
+            Console.ReadKey();
         }
 
         private static void GoodMorning()
@@ -62,5 +65,7 @@ namespace Lambdas
         {
             Console.WriteLine("Good evening Masha");
         }
+
+        public static void PrintTheName() => Console.WriteLine("The name is Test");  //lambda expression
     }
 }
